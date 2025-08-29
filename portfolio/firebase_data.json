@@ -1,0 +1,245 @@
+{
+  "navbar": {
+    "brand": "Shubham",
+    "brandAccent": ".",
+    "links": [
+      {
+        "id": "home",
+        "label": "Home"
+      },
+      {
+        "id": "experience",
+        "label": "Experience"
+      },
+      {
+        "id": "education",
+        "label": "Education"
+      },
+      {
+        "id": "skills",
+        "label": "Skills"
+      },
+      {
+        "id": "projects",
+        "label": "Projects"
+      },
+      {
+        "id": "certifications",
+        "label": "Certifications"
+      },
+      {
+        "id": "contact",
+        "label": "Contact"
+      }
+    ]
+  },
+  "hero": {
+    "title": "I build <span style='color:var(--accent)'>fast</span>, <span style='color:var(--accent2)'>responsive</span> and modern web apps.",
+    "subtitle": "Full Stack Developer skilled in React, TypeScript, Node.js and Firebase.",
+    "cta1": {
+      "text": "View Projects",
+      "link": "#projects"
+    },
+    "cta2": {
+      "text": "Download Resume",
+      "link": "/ShubhamGosaiResume.pdf"
+    },
+    "featured": {
+      "title": "RdmVideoCall — Realtime coin-based video app",
+      "desc": "Built with Firebase Realtime DB, WebRTC and React.",
+      "link": "#"
+    }
+  },
+  "experience": [
+    {
+      "title": "Application Developer Intern",
+      "company": "SoloLearn",
+      "date": "Sept 2023",
+      "img": "/assets/experience/sololearn.png",
+      "link": "https://www.sololearn.com"
+    },
+    {
+      "title": "Full Stack Developer Intern",
+      "company": "Nova Nectar",
+      "date": "May 2024",
+      "img": "/assets/experience/novanectar.png",
+      "link": "https://www.novanectar.com"
+    },
+    {
+      "title": "Computer Operator",
+      "company": "CIPET Doiwala",
+      "date": "Dec 2024",
+      "img": "/assets/experience/cipet.png",
+      "link": "https://www.cipet.gov.in"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. Information Technology",
+      "university": "Graphic Era Hill University",
+      "year": "2020-2023",
+      "cgpa": "7",
+      "img": "/assets/education/gehu.png",
+      "link": "https://www.gehu.edu.in/"
+    },
+    {
+      "degree": "MCA (Distance)",
+      "university": "Graphic Era University",
+      "year": "2024-2026",
+      "img": "/assets/education/geu.png",
+      "link": "https://www.geu.ac.in/"
+    }
+  ],
+  "skills": {
+    "title": "Skills",
+    "items": [
+      {
+        "category": "Frontend",
+        "list": "React, TypeScript, Tailwind CSS"
+      },
+      {
+        "category": "Backend",
+        "list": "Node.js, Express.js, REST APIs"
+      },
+      {
+        "category": "Mobile & Tools",
+        "list": "Firebase, Android Studio, Git"
+      }
+    ]
+  },
+  "projects": {
+    "title": "My Projects",
+    "items": [
+      {
+        "title": "Portfolio Website",
+        "description": "A modern portfolio website built with React and Firebase.",
+        "link": "https://your-portfolio-link.com",
+        "img": "https://example.com/images/portfolio.png"
+      },
+      {
+        "title": "E-commerce App",
+        "description": "Full-stack e-commerce app using React, Node.js, and MongoDB.",
+        "link": "https://your-ecommerce-link.com",
+        "img": "https://example.com/images/ecommerce.png"
+      },
+      {
+        "title": "Chat Application",
+        "description": "Realtime chat application built with React and Firebase.",
+        "link": "https://your-chatapp-link.com",
+        "img": "https://example.com/images/chatapp.png"
+      },
+      {
+        "title": "Blog Platform",
+        "description": "A blogging platform with user authentication and content management.",
+        "link": "https://your-blog-link.com",
+        "img": "https://example.com/images/blog.png"
+      },
+      {
+        "title": "E-commerce App",
+        "description": "Full-stack e-commerce app using React, Node.js, and MongoDB.",
+        "link": "https://your-ecommerce-link.com",
+        "img": "https://example.com/images/ecommerce.png"
+      },
+      {
+        "title": "E-commerce App",
+        "description": "Full-stack e-commerce app using React, Node.js, and MongoDB.",
+        "link": "https://your-ecommerce-link.com",
+        "img": "https://example.com/images/ecommerce.png"
+      },
+      {
+        "title": "E-commerce App",
+        "description": "Full-stack e-commerce app using React, Node.js, and MongoDB.",
+        "link": "https://your-ecommerce-link.com",
+        "img": "https://example.com/images/ecommerce.png"
+      },
+      {
+        "title": "E-commerce App",
+        "description": "Full-stack e-commerce app using React, Node.js, and MongoDB.",
+        "link": "https://your-ecommerce-link.com",
+        "img": "https://example.com/images/ecommerce.png"
+      },
+      {
+        "title": "E-commerce App",
+        "description": "Full-stack e-commerce app using React, Node.js, and MongoDB.",
+        "link": "https://your-ecommerce-link.com",
+        "img": "https://example.com/images/ecommerce.png"
+      },
+      {
+        "title": "E-commerce App",
+        "description": "Full-stack e-commerce app using React, Node.js, and MongoDB.",
+        "link": "https://your-ecommerce-link.com",
+        "img": "https://example.com/images/ecommerce.png"
+      },
+      {
+        "title": "Task Manager",
+        "description": "A productivity app to manage tasks and projects efficiently.",
+        "link": "https://your-taskmanager-link.com",
+        "img": "https://example.com/images/taskmanager.png"
+      }
+    ]
+  },
+  "certifications": {
+    "title": "Certifications",
+    "items": [
+      {
+        "title": "Machine Learning – SoloLearn",
+        "img": "/assets/certs/cert1.png",
+        "link": "#"
+      },
+      {
+        "title": "Python Core – SoloLearn",
+        "img": "/assets/certs/cert2.png",
+        "link": "#"
+      },
+      {
+        "title": "Python Core – SoloLearn",
+        "img": "/assets/certs/cert2.png",
+        "link": "#"
+      },
+      {
+        "title": "Python Core – SoloLearn",
+        "img": "/assets/certs/cert2.png",
+        "link": "#"
+      },
+      {
+        "title": "Python Core – SoloLearn",
+        "img": "/assets/certs/cert2.png",
+        "link": "#"
+      },
+      {
+        "title": "Python Core – SoloLearn",
+        "img": "/assets/certs/cert2.png",
+        "link": "#"
+      },
+      {
+        "title": "C Language – SoloLearn",
+        "img": "/assets/certs/cert3.png",
+        "link": "#"
+      }
+    ]
+  },
+  "headings": {
+    "inbox": "Contact Me"
+  },
+  "footer": {
+    "socials": {
+      "instagram": {
+        "link": "https://www.instagram.com/shubhamg0sai/",
+        "icon": "/assets/icons/instagram.svg"
+      },
+      "linkedin": {
+        "link": "https://linkedin.com/in/shubhamg0sai/",
+        "icon": "/assets/icons/linkedin.svg"
+      },
+      "github": {
+        "link": "https://github.com/ShuBhamg0sai",
+        "icon": "/assets/icons/github.svg"
+      },
+      "x": {
+        "link": "https://x.com/shubhamg0sai",
+        "icon": "/assets/icons/x.svg"
+      }
+    },
+    "copyright": "© 2025 Shubham Gosai"
+  }
+}
